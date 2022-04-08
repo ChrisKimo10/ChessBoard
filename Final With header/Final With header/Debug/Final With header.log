@@ -1,0 +1,7 @@
+﻿  Bishop.cpp
+  Knight.cpp
+  Pawn.cpp
+  Generating Code...
+C:\Users\ckimo\source\repos\Final With header\Final With header\Pawn.cpp(183): warning C4715: 'Pawn::checkPosition': not all control paths return a value
+C:\Users\ckimo\source\repos\Final With header\Final With header\Bishop.cpp(172): warning C4715: 'Bishop::checkPosition': not all control paths return a value
+  Final With header.vcxproj -> C:\Users\ckimo\source\repos\Final With header\Debug\Final With header.exe
